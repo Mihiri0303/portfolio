@@ -17,16 +17,16 @@ const mainBody = {
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/profile.php?id=100064504833425",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://instagram.com/_sul0chana_?utm_medium=copy_link",
     },
-    {
-      image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
-    },
+    // {
+    //   image: "fa-linkedin",
+    //   url: "https://www.linkedin.com/in/hashirshoaeb/",
+    // },
     // {
     //   image: "fa-twitter",
     //   url: "https://www.twitter.com/hashirshoaeb/",
