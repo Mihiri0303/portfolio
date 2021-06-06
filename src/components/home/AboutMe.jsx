@@ -38,11 +38,11 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
           <div className="col-5 d-none d-lg-block align-self-center">
             {showPic && (
               <img
-                className="border border-secondary rounded-circle"
+                className="border border-secondary rounded-squars"
                 src={profilePicUrl}
                 alt="profilepicture"
-                width={imgSize}
-                height={imgSize}
+                width={375}
+                height={450}
               />
             )}
           </div>
