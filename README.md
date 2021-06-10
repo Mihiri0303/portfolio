@@ -9,11 +9,11 @@
     <a href="https://Mihiri0303.github.io">Mihiri0303.github.io</a>
     <br /> -->
     <br />
-    <a href="https://MihiriSulochana.com">About Me</a>
+    <a href="https://github.com/Mihiri0303">About Me</a>
     ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Report Bug</a>
+    <a href="https://github.com/FHSS-USJ/assignment-01-Mihiri0303/issues">Report Bug</a>
     ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Request Feature</a>
+    <a href="https://github.com/FHSS-USJ/assignment-01-Mihiri0303/issues">Request Feature</a>
   </p>
 </p>
 
@@ -24,7 +24,7 @@
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb) -->
 
-[![Site preview](/public/social-image.png)](https://Mihiri0303.github.io/)
+[![Site preview](/public/social-image.png)](https://github.com/Mihiri0303/)
 
 ## Table of Contents
 
